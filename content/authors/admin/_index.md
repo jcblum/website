@@ -1,35 +1,56 @@
 ---
 authors:
 - admin
-bio: Ecologist, invertebrate zoologist, dataphile, knitter
+bio: Ecologist, invertebrate zoologist, dataphile, fiber artist
 education:
   courses:
-  - course: MS in Ecology
-    institution: UC Davis
-    year: 2012
-  - course: BSc in Biology and French
-    institution: Tufts University
-    year: 2002
+  - course: Winter Retreat
+    institution: Madrona Fiber Arts
+    year: 2013-2018
+  - course: Knitting
+    institution: Self-taught
+    year: since 1999
+  - course: Crochet
+    institution: Self-taught
+    year: since 2002
+  - course: Rigid Heddle Weaving
+    institution: Deborah Jarchow
+  - course: Drop Spindle
+    institution: Brooke Sinnes
+  - course: Dyeing and Natural Dyeing
+    institution: Judith MacKenzie, Brooke Sinnes
+  # - course: MS in Ecology
+  #   institution: UC Davis
+  #   year: 2012
+  # - course: BSc in Biology and French
+  #   institution: Tufts University
+  #   year: 2002
 email: ""
 interests:
-- Conservation Biology
-- Evolutionary Ecology
-- Tools for Reproducible Research
-name: Julia C. Blum
+- Sweater design and construction
+- Colorwork
+- Methods of holding yarn and forming stitches
+- Culturally and geographically specific knitting traditions
+# - Conservation Biology
+# - Evolutionary Ecology
+# - Tools for Reproducible Research
+name: Julia Blum
+# name: Julia C. Blum
 organizations:
-- name: Smithsonian Environmental Research Center
-  url: "https://serc.si.edu"
-role: Professor of Artificial Intelligence
+# - name: Smithsonian Environmental Research Center
+#   url: "https://serc.si.edu"
+# - name: Marine Invasions Research Lab, Tiburon Branch
+#   url: "https://serc.si.edu/tiburon-research-branch"
 social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/_jcblum
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=dBzKbkwAAAAJ
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/_jcblum
+# - icon: google-scholar
+#   icon_pack: ai
+#   link: https://scholar.google.com/citations?user=dBzKbkwAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/jcblum
